@@ -1,12 +1,16 @@
 {
     "manifest_version": 3,
     "name": "Start Dot Duck",
-    "description": "Adds the DuckDuckGo start page (start.duckduckgo.com) as a search engine to avoid that annoying pop-up.",
+    "short_name": "sdd",
+    "description": "Adds the DuckDuckGo start page (start.duckduckgo.com) as a search engine to avoid that annoying pop-up",
+    "version": "1.0",
+    "default_locale": "en",
+    "author": "BigDriz",
     "developer": {
         "name": "Andrew Van Schaack",
-        "url": "https://github.com/bigdriz15/start-dot-duck"
+        "url": "https://github.com/bigdriz15"
     },
-    "version": "1.0",
+    "homepage_url": "https://github.com/bigdriz15/start-dot-duck",
     "chrome_settings_overrides": {
         "search_provider": {
             "name": "Start Dot Duck",
