@@ -17,21 +17,14 @@
             "encoding": "UTF-8"
         }
     },
-    "permissions": [
-        "contextMenus"
-    ],
-    "background": {
-        "scripts": [
-            "background.js"
-        ]
-    },
     "icons": {
-        "48": "icons/icon-48.png",
-        "96": "icons/icon-96.png",
-        "144": "icons/icon-144.png",
-        "300": "icons/icon-300.png",
-        "540": "icons/icon-540.png",
-        "720": "icons/icon-720.png",
-        "1500": "icons/icon-1500.png"
+        "48": "icons/icon.svg",
+        "64": "icons/icon.svg",
+        "96": "icons/icon.svg",
+        "144": "icons/icon.svg",
+        "310": "icons/icon.svg",
+        "540": "icons/icon.svg",
+        "720": "icons/icon.svg",
+        "1500": "icons/icon.svg"
     }
 }
