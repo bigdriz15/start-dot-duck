@@ -1,10 +1,9 @@
 {
-    "manifest_version": 3,
+    "manifest_version": 2,
     "name": "Start Dot Duck",
     "short_name": "sdd",
     "description": "Adds the DuckDuckGo start page (start.duckduckgo.com) as a search engine to avoid that annoying pop-up",
     "version": "1.0",
-    "default_locale": "en",
     "author": "BigDriz",
     "developer": {
         "name": "Andrew Van Schaack",
